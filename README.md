@@ -1,0 +1,1 @@
+# Extract-Meaningful-Data-from-Visiting-Card-using-NER-Model
